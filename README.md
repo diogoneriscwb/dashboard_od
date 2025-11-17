@@ -6,9 +6,9 @@ Este projeto é um dashboard web interativo construído para analisar dados de u
 
 **Você pode acessar o dashboard ao vivo neste link:**
 
-[**https://seu-link-aqui.streamlit.app**](https://seu-link-aqui.streamlit.app)
+[**https://dashboardod-bancodedados.streamlit.app/**](https://dashboardod-bancodedados.streamlit.app/)
 
-*(Substitua o link acima pelo seu link do Streamlit Community Cloud após o deploy)*
+
 
 ---
 
